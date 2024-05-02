@@ -1,3 +1,3 @@
 # learn-shell 
 
-we are going to learn bash shell
+we are going to learn bash shell..
